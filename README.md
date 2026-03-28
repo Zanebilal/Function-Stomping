@@ -30,6 +30,4 @@ Using MinGW:
 ```bash
 x86_64-w64-mingw32-gcc local.c -o local.exe
 x86_64-w64-mingw32-gcc remote.c -o remote.exe
-```bash
-x86_64-w64-mingw32-gcc local.c -o local.exe
-x86_64-w64-mingw32-gcc remote.c -o remote.exe
+```
